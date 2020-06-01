@@ -17,6 +17,7 @@ public class GGGGGG {
     public static void main(String[] args) {
         // TODO code application logic here
         //VERSION 1
+        //VERSION 1.1 beta
     }
     
 }
